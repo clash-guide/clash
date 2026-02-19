@@ -94,7 +94,7 @@
 - Clash for Android 下载地址：https://github.com/clash-guide/clash_for_Android
 - Clash for Android 使用教程：https://github.com/clash-guide/clash/wiki/clash-for-android 
 
-### ClashN （最新版）
+### ClashN （已停更）
 
 - ClashN 下载地址：https://github.com/2dust/clashN/releases
 - ClashN 使用教程：https://github.com/clash-guide/clash/wiki/clashn
