@@ -22,18 +22,6 @@
 | Clash for Android      | ❌       | ❌    | ✅       | ❌     |                                                    [![Version](https://img.shields.io/github/v/release/clash-guide/Clash_for_Android?color=3DDC84&label=备份&logo=windows&logoColor=white)](https://github.com/clash-guide/Clash_for_Android/releases) | | [前往](https://github.com/clash-guide/clash/wiki/clash-for-android ) |
 | ClashX                 | ❌       | ✅    | ❌       | ❌     |                     [![Version](https://img.shields.io/github/v/release/clash-guide/ClashX?color=3DDC84&label=备份&logo=windows&logoColor=white)](https://github.com/clash-guide/ClashX/releases)             |            |      [前往](https://github.com/clash-guide/clash/wiki/clashx)         |
 
-# 社交风格
-![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=social)
-
-# 带颜色
-![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?color=yellow&logo=github)
-
-# for-the-badge 大徽章
-![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?style=for-the-badge&logo=github)
-
-# 自定义标签
-![GitHub stars](https://img.shields.io/github/stars/MetaCubeX/ClashMetaForAndroid?label=⭐%20Stars&color=gold)
-
 ## 客户端官网导航
 
 ### Clash Verge Rev
