@@ -64,32 +64,32 @@
 - Clash Nyanpasu 下载地址：https://github.com/libnyanpasu/clash-nyanpasu/releases
 - Clash Nyanpasu 使用教程：https://github.com/clash-guide/clash/wiki/clash-nyanpasu
 
-### Mihomo Party （最新版）
+### Mihomo Party （已停更）
 
 - Mihomo Party 下载地址：https://github.com/mihomo-party-org/mihomo-party/releases
 - Mihomo Party 使用教程：https://github.com/clash-guide/clash/wiki/mihomo-party 
 
-### Clash Verge （最新版）
+### Clash Verge （已停更）
 
 - Clash Verge 下载地址：https://github.com/clash-guide/clash_Verge
 - Clash Verge 使用教程：https://github.com/clash-guide/clash/wiki/clash-verge
 
-### Clash for Windows （最新版）
+### Clash for Windows （已停更）
 
 - Clash for Windows 下载地址：https://github.com/clash-guide/clash_for_Windows
 - Clash for Windows 使用教程：https://github.com/clash-guide/clash/wiki/clash-for-windows
 
-### ClashX （最新版）
+### ClashX （已停更）
 
 - ClashX 下载地址：https://github.com/clash-guide/clashX
 - ClashX 使用教程：https://github.com/clash-guide/clash/wiki/clashx
 
-### ClashX Pro （最新版）
+### ClashX Pro （已停更）
 
 - ClashX Pro下载地址：https://github.com/clash-guide/clashX_Pro
 - ClashX Pro 使用教程：https://github.com/clash-guide/clash/wiki/clashx-pro
 
-### Clash for Android （最新版）
+### Clash for Android （已停更）
 
 - Clash for Android 下载地址：https://github.com/clash-guide/clash_for_Android
 - Clash for Android 使用教程：https://github.com/clash-guide/clash/wiki/clash-for-android 
