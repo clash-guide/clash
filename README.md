@@ -1,6 +1,6 @@
 # Clash官网导航（2026年最新）
 
-传统客户端 Clash for Windows、Clash for Android，主流客户端 Clash Meta for Android、Clash Verge Rev、FlClash 全覆盖。
+覆盖传统客户端 Clash for Windows、Clash for Android，主流客户端 Clash Meta for Android、Clash Verge Rev、FlClash。
 
 如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！**Fork**可永久保存到自己仓库。
 
